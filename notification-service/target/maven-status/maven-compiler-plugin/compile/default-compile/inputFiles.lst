@@ -1,0 +1,7 @@
+/home/deployer/services/notification-service/src/main/java/com/amarispay/notificationservices/instanceconfiguration/UserCodeConfiguration.java
+/home/deployer/services/notification-service/src/main/java/com/amarispay/notificationservices/MailConfiguration.java
+/home/deployer/services/notification-service/src/main/java/com/amarispay/notificationservices/web/NotificationServicesController.java
+/home/deployer/services/notification-service/src/main/java/com/amarispay/notificationservices/mailservices/MailService.java
+/home/deployer/services/notification-service/src/main/java/com/amarispay/notificationservices/mailservices/IMailService.java
+/home/deployer/services/notification-service/src/main/java/com/amarispay/notificationservices/NotificationServicesApplication.java
+/home/deployer/services/notification-service/src/main/java/com/amarispay/notificationservices/beans/Mail.java
